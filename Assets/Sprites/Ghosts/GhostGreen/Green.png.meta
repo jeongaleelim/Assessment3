@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 2f4d74f4780e94c8293cf2ba8bac1591
+guid: 611141080a58841a4a9c79a1fa86c574
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -106,7 +106,70 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: WalkingLeft_0
+      name: Green_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7be7bb1da72894e13a651c68482cd1af
+      internalID: -1885587006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6e8f3deb1b0c4205a5c2a5efee1f844
+      internalID: 1616392307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 611dab108884349ee9191137517e3c5b
+      internalID: 43949333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_3
       rect:
         serializedVersion: 2
         x: 0
@@ -120,14 +183,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5f3b845b1b7da4b1391ada9886930133
-      internalID: -1086361249
+      spriteID: 1cb9c8f90a0724820a5537bad3cf41ae
+      internalID: 2003296168
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: WalkingLeft_1
+      name: Green_4
       rect:
         serializedVersion: 2
         x: 32
@@ -141,14 +204,35 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bad20914b965e48729f7fd51c9f807f4
-      internalID: 941273506
+      spriteID: 16c420746848641509cabef0089c9c06
+      internalID: -1880043277
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: WalkingLeft_2
+      name: Green_5
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 431991a2fc9e7406d906db8d44584a9d
+      internalID: 1896239246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_6
       rect:
         serializedVersion: 2
         x: 0
@@ -162,14 +246,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cd5e78d165ce24ba4831bd25abd16fcb
-      internalID: -551806076
+      spriteID: a951ae2470caa4902909f913782e8803
+      internalID: -518166048
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: WalkingLeft_3
+      name: Green_7
       rect:
         serializedVersion: 2
         x: 32
@@ -183,8 +267,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a105a3a60f651402dafe9fd389eb7140
-      internalID: 626585267
+      spriteID: 7b5f81280252f4708a6caeea0cf128a6
+      internalID: 2105069659
       vertices: []
       indices: 
       edges: []
@@ -200,10 +284,14 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      WalkingLeft_3: 626585267
-      WalkingLeft_2: -551806076
-      WalkingLeft_1: 941273506
-      WalkingLeft_0: -1086361249
+      Green_4: -1880043277
+      Green_5: 1896239246
+      Green_6: -518166048
+      Green_3: 2003296168
+      Green_0: -1885587006
+      Green_2: 43949333
+      Green_1: 1616392307
+      Green_7: 2105069659
   spritePackingTag: 
   pSDRemoveMatte: 0
   userData: 

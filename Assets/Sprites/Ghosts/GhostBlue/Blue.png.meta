@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 2f4d74f4780e94c8293cf2ba8bac1591
+guid: 8e0fd5b7c26fb4430ac1b7a4ddbdc982
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -106,7 +106,70 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: WalkingLeft_0
+      name: Blue_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fbd225c855ab4a0e8a58a0f584d1304
+      internalID: -143757856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 007f7ff1dcb014df78f965e59e7fae26
+      internalID: 1680020351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f43e755fa72f4a65b02e8e42704e807
+      internalID: 1803857984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_3
       rect:
         serializedVersion: 2
         x: 0
@@ -120,14 +183,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5f3b845b1b7da4b1391ada9886930133
-      internalID: -1086361249
+      spriteID: 147a15f7ca96841a1b961099fbff83e2
+      internalID: -1268772461
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: WalkingLeft_1
+      name: Blue_4
       rect:
         serializedVersion: 2
         x: 32
@@ -141,14 +204,35 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bad20914b965e48729f7fd51c9f807f4
-      internalID: 941273506
+      spriteID: 68ee77610cafb4bcf900c4c29c79a155
+      internalID: 504615004
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: WalkingLeft_2
+      name: Blue_5
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeaba2c3e798d42db973c0bc85216eb4
+      internalID: 1104985043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_6
       rect:
         serializedVersion: 2
         x: 0
@@ -162,14 +246,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cd5e78d165ce24ba4831bd25abd16fcb
-      internalID: -551806076
+      spriteID: 1b61e2502bd08462cb9bc1591e7d0c2a
+      internalID: 203061458
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: WalkingLeft_3
+      name: Blue_7
       rect:
         serializedVersion: 2
         x: 32
@@ -183,8 +267,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a105a3a60f651402dafe9fd389eb7140
-      internalID: 626585267
+      spriteID: e1f7b04d4e0bf4fa8b252b0c0be1d1b2
+      internalID: 1436044010
       vertices: []
       indices: 
       edges: []
@@ -200,10 +284,14 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      WalkingLeft_3: 626585267
-      WalkingLeft_2: -551806076
-      WalkingLeft_1: 941273506
-      WalkingLeft_0: -1086361249
+      Blue_0: -143757856
+      Blue_5: 1104985043
+      Blue_3: -1268772461
+      Blue_6: 203061458
+      Blue_1: 1680020351
+      Blue_7: 1436044010
+      Blue_2: 1803857984
+      Blue_4: 504615004
   spritePackingTag: 
   pSDRemoveMatte: 0
   userData: 

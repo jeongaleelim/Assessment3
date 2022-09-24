@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 2f4d74f4780e94c8293cf2ba8bac1591
+guid: 799cd50dc6a3343c9b7cdd4bb38f7936
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -106,7 +106,70 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: WalkingLeft_0
+      name: Purple_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea89d958dae5242a2a784022bdb8cd45
+      internalID: 820671778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2f6bcfd9b6d145ee9e6d9d76cc50a60
+      internalID: -1632453488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3631e3a4bbeb499290157ba3c1fe2c9
+      internalID: -460855814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple_3
       rect:
         serializedVersion: 2
         x: 0
@@ -120,14 +183,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5f3b845b1b7da4b1391ada9886930133
-      internalID: -1086361249
+      spriteID: adf21598a4ef3464499f4136f7011f90
+      internalID: 949965699
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: WalkingLeft_1
+      name: Purple_4
       rect:
         serializedVersion: 2
         x: 32
@@ -141,14 +204,35 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bad20914b965e48729f7fd51c9f807f4
-      internalID: 941273506
+      spriteID: 2514d731ba65341cfba43811f281dc5e
+      internalID: -230212571
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: WalkingLeft_2
+      name: Purple_5
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f20c94a6499c14061bce7244d93377bb
+      internalID: 671980911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple_6
       rect:
         serializedVersion: 2
         x: 0
@@ -162,14 +246,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cd5e78d165ce24ba4831bd25abd16fcb
-      internalID: -551806076
+      spriteID: babfc78582b974d2ea2dfa9e72ad3e01
+      internalID: 1342994006
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: WalkingLeft_3
+      name: Purple_7
       rect:
         serializedVersion: 2
         x: 32
@@ -183,8 +267,29 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a105a3a60f651402dafe9fd389eb7140
-      internalID: 626585267
+      spriteID: 0e1472afa81c548cf8576fc64dd3d2b9
+      internalID: -422783267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e67f8b35650fc47d1b18aa0719194ae8
+      internalID: 1204965292
       vertices: []
       indices: 
       edges: []
@@ -200,10 +305,15 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      WalkingLeft_3: 626585267
-      WalkingLeft_2: -551806076
-      WalkingLeft_1: 941273506
-      WalkingLeft_0: -1086361249
+      Purple_3: 949965699
+      Purple_2: -460855814
+      Purple_4: -230212571
+      Purple_5: 671980911
+      Purple_8: 1204965292
+      Purple_7: -422783267
+      Purple_1: -1632453488
+      Purple_0: 820671778
+      Purple_6: 1342994006
   spritePackingTag: 
   pSDRemoveMatte: 0
   userData: 
