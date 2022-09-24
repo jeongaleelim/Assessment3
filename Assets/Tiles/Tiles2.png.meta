@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 2067ecf310d0944cfb25ab2e18c02ef9
+guid: 88b8d22d694a34ecbb5c66059810233d
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -106,7 +106,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: DeadAnim_0
+      name: Tiles2_0
       rect:
         serializedVersion: 2
         x: 0
@@ -120,14 +120,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 459839e7dcb5a4236a921cadc798ce0a
-      internalID: 1883874635
+      spriteID: feba6f14331c74bd28444bf4d4af8669
+      internalID: 497712871
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: DeadAnim_1
+      name: Tiles2_1
       rect:
         serializedVersion: 2
         x: 32
@@ -141,14 +141,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f48ea526cbccd49a4bda20a21f50dd24
-      internalID: 333969706
+      spriteID: d74a54995b2b14732884bc62b3b5fc72
+      internalID: -1685835555
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: DeadAnim_2
+      name: Tiles2_2
       rect:
         serializedVersion: 2
         x: 64
@@ -162,14 +162,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7fcf96b48b3de49b69f7df2bb99049f7
-      internalID: 1603142166
+      spriteID: c25a423f005ad414ab895484cd9555d8
+      internalID: -1204337950
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: DeadAnim_3
+      name: Tiles2_3
       rect:
         serializedVersion: 2
         x: 0
@@ -183,14 +183,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 124566cbb39814d14aed1c00119650b3
-      internalID: -1876977821
+      spriteID: fad7b2c43369246459dce07a57a2523a
+      internalID: -2094490828
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: DeadAnim_4
+      name: Tiles2_4
       rect:
         serializedVersion: 2
         x: 32
@@ -204,14 +204,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 18ed3b430677a4800bc4b544ae25668b
-      internalID: 1611885071
+      spriteID: b0f07eb034e94447e8c92f13e048e7da
+      internalID: -1604670940
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: DeadAnim_5
+      name: Tiles2_5
       rect:
         serializedVersion: 2
         x: 64
@@ -225,14 +225,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 17592c977d0dc44b1a156736d15de106
-      internalID: 1749648378
+      spriteID: a13bf318403e349e287a89f8a7745f12
+      internalID: 1145222230
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: DeadAnim_6
+      name: Tiles2_6
       rect:
         serializedVersion: 2
         x: 0
@@ -246,29 +246,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e52c9ad376de548eb8b2a7c1a6b7cc5d
-      internalID: 2101824900
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DeadAnim_7
-      rect:
-        serializedVersion: 2
-        x: 32
-        y: 0
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 82d20fdc9622b49f2bb8567a59f866c5
-      internalID: -236311994
+      spriteID: 78c7f064cab064d369f32903dcebc466
+      internalID: 47420340
       vertices: []
       indices: 
       edges: []
@@ -284,14 +263,13 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      DeadAnim_6: 2101824900
-      DeadAnim_2: 1603142166
-      DeadAnim_0: 1883874635
-      DeadAnim_1: 333969706
-      DeadAnim_5: 1749648378
-      DeadAnim_7: -236311994
-      DeadAnim_4: 1611885071
-      DeadAnim_3: -1876977821
+      Tiles2_5: 1145222230
+      Tiles2_2: -1204337950
+      Tiles2_0: 497712871
+      Tiles2_4: -1604670940
+      Tiles2_6: 47420340
+      Tiles2_3: -2094490828
+      Tiles2_1: -1685835555
   spritePackingTag: 
   pSDRemoveMatte: 0
   userData: 
