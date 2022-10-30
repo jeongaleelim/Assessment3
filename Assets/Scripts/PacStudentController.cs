@@ -18,8 +18,7 @@ public class PacStudentController : MonoBehaviour
         if (Input.GetKeyDown("w"))
         {
             lastInput = "w";
-
-
+            Debug.Log(lastInput);
         }
     }
 }
