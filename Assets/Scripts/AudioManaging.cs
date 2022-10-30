@@ -18,7 +18,6 @@ public class AudioManaging : MonoBehaviour
         
     }
 
-    // Update is called once per frame
     void Update()
     {
         
