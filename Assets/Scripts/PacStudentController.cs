@@ -5,8 +5,11 @@ using UnityEngine;
 public class PacStudentController : MonoBehaviour
 {
     public Tweener tweener;
+
     private string lastInput;
     private string currentInput;
+
+    private float speed = 2.5f;
 
     void Start()
     {
@@ -19,6 +22,17 @@ public class PacStudentController : MonoBehaviour
         {
             lastInput = "w";
             Debug.Log(lastInput);
+
+            if (tweener != null)
+            {
+                if (!tweener.TweenExists(transform))
+                {
+                    tweener.AddTween(transform, transform.position, Vector3.up, speed);
+                }
+
+            }
         }
+
     }
+
 }
