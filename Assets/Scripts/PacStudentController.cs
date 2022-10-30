@@ -4,7 +4,10 @@ using UnityEngine;
 
 public class PacStudentController : MonoBehaviour
 {
-    
+    public Tweener tweener;
+    private string lastInput;
+    private string currentInput;
+
     void Start()
     {
         
@@ -12,6 +15,11 @@ public class PacStudentController : MonoBehaviour
 
     void Update()
     {
-        
+        if (Input.GetKeyDown("w"))
+        {
+            lastInput = "w";
+
+
+        }
     }
 }
